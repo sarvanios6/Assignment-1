@@ -1,6 +1,6 @@
 # Assignment-1
 
-Documetataion
+Documentataion
 
 HTML
 set the div for loading the set of images.
